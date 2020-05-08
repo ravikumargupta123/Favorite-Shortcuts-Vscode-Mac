@@ -2,7 +2,8 @@ Toggle Panal                     Commond + J
 Toggle Side Panel                Commond + B
 Serach File                      Commond + P
 Add next Occurence               Commond + D
-Comment                          Commond + \
+Comment                          Commond + /
+Split screen                     Commond + \
 
 Command Pallet                   Commond + Shift + p
 Explorer                         Commond + Shift + E
@@ -13,9 +14,10 @@ Search Short Cuts                Commond + Shift + R
 
 Terminal                         Ctrl + `(backtics)
 Go back                          Ctrl + -(Dash)
-Last Commond in Terminal         Ctrl + R
-Last Commond in Terminal         Ctrl + G
+Last Commond (Terminal/Editor)   Ctrl + R
+Go to line                       Ctrl + G
 Split Window                     Ctrl + \
+open File                        Ctrl + W
 
 Move Line Up/Down                Alt +/-
 
