@@ -1,4 +1,5 @@
-`Toggle Panal                     Commond + J
+``` js
+Toggle Panal                     Commond + J
 Toggle Side Panel                Commond + B
 Serach File                      Commond + P
 Add next Occurence               Commond + D
@@ -23,4 +24,5 @@ Move Line Up/Down                Alt +/-
 
 Add Multiple Cursor              Alt + Commond + Up/Down
 
-copy Line                        Alt + Shift + up/Down`
+copy Line                        Alt + Shift + up/Down
+```
